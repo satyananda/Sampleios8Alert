@@ -68,13 +68,13 @@
         UIAlertAction *showCamera = [UIAlertAction actionWithTitle:@"Cancel"
                                                              style:UIAlertActionStyleCancel
                                                            handler:^(UIAlertAction *action){
-           //
+           //showCamera
             
         }];
         UIAlertAction *delete = [UIAlertAction actionWithTitle:@"Delete"
                                                          style:UIAlertActionStyleDestructive
                                                        handler:^(UIAlertAction *action){
-            //
+            //delete
             
         }];
         
